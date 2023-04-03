@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Meta Verified is rolling out to users in Australia and New Zeland",
+            "description": "Meta announced its subscription plan, Meta Verified, earlier this week and now it is rolling out to users based in Australia and New Zealand.",
+            "url": "https://techcrunch.com/2023/02/24/meta-verified-is-rolling-out-to-users-in-australia-and-new-zeland/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?resize=1200,675",
+            "publishedAt": "2023-02-24T12:58:40Z",
+            "content": "Meta announced its subscription plan, Meta Verified, earlier this week and now the social media company is rolling out to users based in Australia and New Zealand. The company began the rollout aroun… [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Poshmark lays off employees just two months after being acquired by Naver",
+            "description": "Poshmark, a Redwood City, California-headquartered secondhand apparel marketplace, is laying off a proportion of its 800+ employees. The reduction is coming about two months after South Korean internet firm Naver completed its acquisition of the company earli…",
+            "url": "https://techcrunch.com/2023/02/24/poshmark-lays-off-employees-just-two-months-after-being-acquired-by-naver/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/11/poshmark-founders-group-shot_credit-jen-kay.jpg?resize=1200,741",
+            "publishedAt": "2023-02-24T12:50:06Z",
+            "content": "Poshmark, a Redwood City, California-headquartered secondhand apparel marketplace, is laying off a proportion of its 800+ employees. The reduction is coming about two months after South Korean intern… [+2967 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "A year on from Russia's invasion, Ukrainian startups show astounding resilience",
+            "description": "Today marks exactly one year since Russia’s illegal, unprovoked, and brutal of Ukraine. This week, a majority of the members of the United Nations reiterated its demand that Russia “immediately, completely and unconditionally withdraw all of its military forc…",
+            "url": "https://techcrunch.com/2023/02/24/a-year-on-from-russias-invasion-ukrainian-startups-show-astounding-resilience/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/1080px-Flag_of_Ukraine.svg_.png",
+            "publishedAt": "2023-02-24T12:28:25Z",
+            "content": "Today marks exactly one year since Russia’s illegal, unprovoked, and brutal of Ukraine. This week, a majority of the members of the United Nations reiterated its demand that Russia immediately, compl… [+19318 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Amazon joins India-backed e-commerce initiative that's seeking to challenge the retail giant",
+            "description": "Amazon is joining the Indian government-backed e-commerce initiative that seeks to democratize online shopping in the South Asian market.",
+            "url": "https://techcrunch.com/2023/02/23/amazon-india-ondc/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1195397590.jpg?resize=1200,801",
+            "publishedAt": "2023-02-24T07:43:50Z",
+            "content": "Amazon is joining the Indian government-backed e-commerce initiative that seeks to “democratize” online shopping in the South Asian market and amusingly challenge the very dominance of companies such… [+1919 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Annie Njanja",
+            "title": "South Africa's Envisionit Deep AI gets $1.65M to expand access to medical imaging",
+            "description": "The investment is from New GX Ventures SA, a joint venture between New GX Capital, RMB Ventures and GIIG Africa.",
+            "url": "https://techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/IMG_6453-e1677220071471.jpg",
+            "publishedAt": "2023-02-24T07:12:54Z",
+            "content": "Dr. Jaishree Naidoo was in charge of pediatric radiology at a South African hospital in 2014, when she had a moment of epiphany after coming across a news story on the usage of AI recognition pattern… [+4504 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "SEC says Elon Musk still needs lawyer to approve his tweets",
+            "description": "Elon Musk wants a court of appeals to consider a recent verdict that found him not liable for securities fraud. The SEC is doubling down.",
+            "url": "https://techcrunch.com/2023/02/23/sec-says-elon-musk-still-needs-lawyer-to-approve-his-tweets/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/Musk_Twitter-e1658493595325.jpg?resize=1200,675",
+            "publishedAt": "2023-02-24T01:58:22Z",
+            "content": "The U.S. Securities and Exchange Commission (SEC) says Tesla CEO Elon Musk still needs to get pre-approval from lawyers before tweeting Tesla-related information.\r\nThe SEC penned its renewed stance t… [+2726 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "What we expect from MWC 2023",
+            "description": "What we expect from MWC 2023: More enterprise than consumer, concept devices, VR, climate tech and 6G, apparently",
+            "url": "https://techcrunch.com/2023/02/23/what-we-expect-from-mwc-2021/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/mwc-2023-splash.jpg?resize=1200,645",
+            "publishedAt": "2023-02-24T00:17:40Z",
+            "content": "In a word: telecom. Network and enterprise have long played a key part in Barcelonas big mobile show, but more than ever, such topics are going to have an outsized role at the event. The consumer ele… [+6103 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Daily Crunch: YouTube rolls out support for dubbing videos in more than 40 languages",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2023/02/23/daily-crunch-youtube-rolls-out-support-for-dubbing-videos-in-more-than-40-languages/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/alexander-shatov-niUkImZcSP8-unsplash.jpg?resize=1200,900",
+            "publishedAt": "2023-02-23T21:50:13Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nHappy Thursday, landlubbers and salty sea dogs!\r\nWeve got some fun… [+3578 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Google Photos' AI-powered 'Magic Eraser' is now a Google One subscription perk",
+            "description": "One of the Google Pixel’s best photo-editing features, “Magic Eraser,” is now making its way to other Android and iOS devices. But it won’t be free. Today, Google announced that the popular tool, which uses AI to remove unwanted content from images, will beco…",
+            "url": "https://techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-887454024.jpg?resize=1200,797",
+            "publishedAt": "2023-02-23T19:37:45Z",
+            "content": "One of the Google Pixel’s best photo-editing features, “Magic Eraser,” is now making its way to other Android and iOS devices. But it won’t be free. Today, Google announced that the popular tool, whi… [+2936 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "5 questions emerging managers should ask before selecting LPs",
+            "description": "Between accounting, deal sourcing, due diligence, fundraising and recruiting, starting your own fund can be a huge endeavor.",
+            "url": "https://techcrunch.com/2023/02/24/5-questions-emerging-managers-need-to-ask-before-selecting-lps/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1333464853.jpg?resize=1200,800",
+            "publishedAt": "2023-02-22T21:38:28Z",
+            "content": "When most people think of venture capitalists, they often think of investors, the people writing checks to fund startups. But that image is only one part of venture capital. In order to make those in… [+3163 chars]"
+        }
+    ]
+}

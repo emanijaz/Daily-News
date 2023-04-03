@@ -1,25 +1,60 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Navbar from './components/Navbar';
+import News from './components/News';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import LoadingBar from 'react-top-loading-bar'
+import { useState } from "react";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+const pageSize = 12;
+const [progress, setProgress] = useState(0)
+const [mode, setMode] = useState('light')
+const toggleMode = () => {
+  if(mode === 'light'){
+    setMode('dark');
+    document.body.style.backgroundColor = '#505050';
+  }
+  else{
+    setMode('light');
+    document.body.style.backgroundColor = 'white';
+  }
+}
+
+return (
+ 
+    <Router>
+       <div className="App" >
+  
+        <Navbar mode={mode} toggle={toggleMode}/>
+        <LoadingBar
+        color='#f11946'
+        progress={progress}
+        onLoaderFinished={() => setProgress(0)}
+      />
+          <Routes>
+            <Route path="/" element={<News progress={setProgress} title="Daily News" country="us" category = "general" pageSize ="10" />} ></Route>
+
+            <Route path="/general" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize = {pageSize} />} ></Route>
+            <Route exact path="/health" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "health"  pageSize = {pageSize} />} ></Route>
+            <Route exact path="/science" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "science"  pageSize = {pageSize} />} ></Route>
+            <Route exact path="/sports" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "sports" pageSize = {pageSize}/>} ></Route>
+            <Route exact path="/technology" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "technology" pageSize = {pageSize} />} ></Route>
+
+          </Routes>
+
+       </div>
+    </Router>
+    
+        
+    
+  
+    
+    
+    
+  
+);
 }
 
 export default App;
