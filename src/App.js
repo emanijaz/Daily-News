@@ -2,7 +2,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import News from './components/News';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route , HashRouter} from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 import { useState } from "react";
 
@@ -23,8 +23,9 @@ const toggleMode = () => {
 }
 
 return (
- 
-    <Router>
+  
+  <HashRouter>
+    {/* <Router> */}
        <div className="App" >
   
         <Navbar mode={mode} toggle={toggleMode}/>
@@ -45,7 +46,8 @@ return (
           </Routes>
 
        </div>
-    </Router>
+      {/* </Router> */}
+    </HashRouter>
     
         
     

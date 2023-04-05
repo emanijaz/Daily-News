@@ -26,7 +26,6 @@ export default function News(props) {
 
     let parsedData = await data.json();
     props.progress(70);
-    console.log(parsedData.status)
     setStatus(parsedData.status);
     if (parsedData.status) {
       setArticles({
