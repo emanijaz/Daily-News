@@ -35,7 +35,7 @@ return (
         onLoaderFinished={() => setProgress(0)}
       />
           <Routes>
-            <Route path="/" element={<News progress={setProgress} title="Daily News" country="us" category = "general" pageSize ="10" />} ></Route>
+            <Route path="/" element={<News progress={setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize ="10" />} ></Route>
 
             <Route path="/general" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize = {pageSize} />} ></Route>
             <Route exact path="/health" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "health"  pageSize = {pageSize} />} ></Route>
