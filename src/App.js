@@ -24,7 +24,7 @@ const toggleMode = () => {
 
 return (
   
-  <HashRouter basename="/">
+    <HashRouter basename="/">
        <div className="App" >
   
         <Navbar mode={mode} toggle={toggleMode}/>
@@ -47,13 +47,7 @@ return (
        </div>
     </HashRouter>
     
-        
-    
-  
-    
-    
-    
-  
+
 );
 }
 
