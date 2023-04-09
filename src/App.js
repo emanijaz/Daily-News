@@ -24,17 +24,16 @@ const toggleMode = () => {
 
 return (
   
-    // <HashRouter basename="/">
+  <HashRouter basename="/">
        <div className="App" >
-        <News progress={setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize ="10" />
-{/*   
+  
         <Navbar mode={mode} toggle={toggleMode}/>
         <LoadingBar
         color='#f11946'
         progress={progress}
         onLoaderFinished={() => setProgress(0)}
-      /> */}
-          {/* <Routes>
+      />
+          <Routes>
             <Route path="/" element={<News progress={setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize ="10" />} ></Route>
 
             <Route path="/general" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize = {pageSize} />} ></Route>
@@ -43,12 +42,11 @@ return (
             <Route exact path="/sports" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "sports" pageSize = {pageSize}/>} ></Route>
             <Route exact path="/technology" element={<News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "technology" pageSize = {pageSize} />} ></Route>
 
-          </Routes> */}
+          </Routes>
 
        </div>
-    // </HashRouter>
+    </HashRouter>
     
-
 );
 }
 
