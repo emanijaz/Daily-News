@@ -28,11 +28,11 @@ return (
        <div className="App" >
   
         {/* <Navbar mode={mode} toggle={toggleMode}/> */}
-        <LoadingBar
+        {/* <LoadingBar
         color='#f11946'
         progress={progress}
         onLoaderFinished={() => setProgress(0)}
-      />
+      /> */}
       <News progress = {setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize = {pageSize} />
           {/* <Routes>
             <Route path="/" element={<News progress={setProgress} mode={mode} title="Daily News" country="us" category = "general" pageSize ="10" />} ></Route>
